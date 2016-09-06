@@ -1,6 +1,6 @@
-# osm-data-volumes
-OSM data volumes
+# osm-vector-tile-volumes
+OSM2Vector tiles as docker data volumes
 
- - [sequor/osm-data-volumes:planet_z0-5](/Dockerfile.planet_z0-5.template)
- - [sequor/osm-data-volumes:planet_z0-8](/Dockerfile.planet_z0-8.template)
+ - [cartoverse/osm-vector-tile-volumes:planet_z0-5](/Dockerfile.planet_z0-5.template)
+ - [cartoverse/osm-vector-tile-volumes:planet_z0-8](/Dockerfile.planet_z0-8.template)
 

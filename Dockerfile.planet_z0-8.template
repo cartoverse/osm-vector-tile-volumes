@@ -1,4 +1,4 @@
-FROM ubuntu:16.04
+FROM alpine:3.4
 
 ADD https://osm2vectortiles-downloads.os.zhdk.cloud.switch.ch/v2.0/planet_2016-06-20_7088ce06a738dcb3104c769adc11ac2c_z0-z8.mbtiles /data/
 
